@@ -1,4 +1,4 @@
-# Using Machine Learning on Water Pumps in Tanzania
+# Using Machine Learning to Improve Clean Water Access in Tanzania
 
 How to predict Water Pump functionality in Tanzania using machine learning tools.  
 
